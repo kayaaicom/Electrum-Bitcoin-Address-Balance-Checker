@@ -1,6 +1,8 @@
 <h1>Bitcoin Address Balance Check</h1>
 
-![Bitcoin Balance Checker](https://raw.githubusercontent.com/kayaaicom/Electrum-Bitcoin-Address-Balance-Checker/main/Bitcoin%20Balance%20Checker.gif)
+![Profil Picture](https://raw.githubusercontent.com/kayaaicom/Electrum-Bitcoin-Address-Balance-Checker/main/test.png)
+
+In the image, it says x.py in the test phase, ignore it and run python name.py.
 
 <br>
 FOR THE PROGRAM TO WORK, DO NOT FORGET TO OPEN THE ELECTRUM WALLET AND RUN ELECTRUM IN THE BACKGROUND.<br>
