@@ -2,7 +2,9 @@
 
 ![Bitcoin Balance Checker](https://raw.githubusercontent.com/kayaaicom/Electrum-Bitcoin-Address-Balance-Checker/main/Bitcoin%20Balance%20Checker.gif)
 
-
+<br>
+FOR THE PROGRAM TO WORK, DO NOT FORGET TO OPEN THE ELECTRUM WALLET AND RUN ELECTRUM IN THE BACKGROUND.<br>
+<br>
 This Python script is used to check the balances of a large number of Bitcoin addresses via Electrum. Below you can find detailed information on how to use this project.
 
 <h2>User Guide</h1>
