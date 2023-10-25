@@ -1,4 +1,8 @@
 <h1>Bitcoin Address Balance Check</h1>
+
+![Bitcoin Balance Checker](https://raw.githubusercontent.com/kayaaicom/Electrum-Bitcoin-Address-Balance-Checker/main/Bitcoin%20Balance%20Checker.gif)
+
+
 This Python script is used to check the balances of a large number of Bitcoin addresses via Electrum. Below you can find detailed information on how to use this project.
 
 <h2>User Guide</h1>
